@@ -11,10 +11,10 @@ Add as a dependency:
 Either require the parser:
 
 ```clojure
-    (ns my.namespace
-      (:require [clojure.ebnf-grammar.parse :as p]))
-      
-    (p/parse-clojure (slurp "my-file.clj"))
+(ns my.namespace
+  (:require [clojure.ebnf-grammar.parse :as p]))
+
+(p/parse-clojure (slurp "my-file.clj"))
 ```
 
 Or make use of [`resources/clojure.ebnf`](resources/clojure.ebnf) directly.
