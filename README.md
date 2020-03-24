@@ -6,7 +6,7 @@ An Instaparse [EBNF grammar for the Clojure language](resources/clojure.ebnf).
 
 Add as a dependency:
 
-    [clojure-ebnf-grammar "0.1.0"]
+[![Clojars Project](https://img.shields.io/clojars/v/clojure-ebnf-grammar.svg)](https://clojars.org/clojure-ebnf-grammar)
 
 Either require the parser:
 
