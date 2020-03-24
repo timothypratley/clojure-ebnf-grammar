@@ -1,4 +1,4 @@
-(defproject clojure-ebnf-grammar "0.1.0"
+(defproject clojure-ebnf-grammar "0.1.1-SNAPSHOT"
   :description "An Instaparse EBNF grammar for the Clojure language"
   :url "http://github.com/timothypratley/clojure-ebnf-grammar"
   :license {:name "EPL-2.0 OR GPL-2.0-or-later WITH Classpath-exception-2.0"
